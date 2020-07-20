@@ -1,0 +1,1 @@
+q + enter == quite from git log in terminal
