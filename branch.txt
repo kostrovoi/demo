@@ -2,4 +2,5 @@ git branch
 git checkout master
 Your branch is based on 'origin/master', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
-  
+
+git checkout -      to switch between the last one branch that you checkout

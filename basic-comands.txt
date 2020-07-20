@@ -1,1 +1,4 @@
 q + enter == quite from git log in terminal
+git status
+git add .
+git commit -m "any message, wauw"
