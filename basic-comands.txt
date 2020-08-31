@@ -1,4 +1,12 @@
-q + enter == quite from git log in terminal
+git --version
+git config --global --list
+q + enter == quite from git log in terminal !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  or
+:q + ENTER   !!!
+
+git config --global user.name "Your actual name"  
+git config --global user.email "your email"
+git config --global --list
+
 git status
 git add .
-git commit -m "any message, wauw"
+git commit -m "any descriptive message"
