@@ -11,3 +11,4 @@ git config --global --list
 git status
 git add .
 git commit -m "any descriptive message"
+try to merge
