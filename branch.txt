@@ -4,5 +4,5 @@ Your branch is based on 'origin/master', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
 
 git checkout -      to switch between the last one branch that you checkout
-CREATE new branch by click on master icon in the right bottom corner of VS code editor! Or...
+CREATE new branch by click on master icon in the right bottom corner of VS code editor! Or... -b newBranch
 git branch -d nameOfTheBranch        that you want to delete -d 
